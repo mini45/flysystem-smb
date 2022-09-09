@@ -22,6 +22,7 @@
           "dev-main": "1.x-dev"
         }
     },
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "RobGridley\\Flysystem\\Smb\\": "src/"
