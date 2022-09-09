@@ -1,5 +1,5 @@
 {
-    "name": "mini45y/flysystem-smb",
+    "name": "mini45/flysystem-smb",
     "description": "Flysystem adapter for Icewind SMB.",
     "keywords": ["smb", "samba", "flysystem"],
     "license": "MIT",
