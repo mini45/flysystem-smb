@@ -6,7 +6,7 @@
     "require": {
         "php": ">=5.6.0",
         "icewind/smb": "*",
-        "league/flysystem": "~1.0"
+        "league/flysystem": "*"
     },
     "require-dev": {
         "phpspec/phpspec": "^3.2"
@@ -17,6 +17,11 @@
             "email": "me@robgridley.com"
         }
     ],
+    "extra": {
+        "branch-alias": {
+          "dev-main": "1.x-dev"
+        }
+    },
     "autoload": {
         "psr-4": {
             "RobGridley\\Flysystem\\Smb\\": "src/"
